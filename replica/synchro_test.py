@@ -1,0 +1,3 @@
+"""
+Testing the synchronization task.
+"""
